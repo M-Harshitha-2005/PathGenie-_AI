@@ -36,15 +36,16 @@ The following technologies and tools were used in the development of the **PathG
 | **Joblib** | Joblib is used for saving and loading trained Machine Learning models efficiently. It enables faster predictions without retraining the model every time the application runs. |
 | **Pickle / PKL Models** | PKL files are used to store trained models, encoders, and processed data. These saved files allow the application to directly load the trained components during prediction. |
 | **Machine Learning** | Machine Learning is the core technology behind the project. It enables the system to analyze user skills, interests, and preferences to generate intelligent and personalized career recommendations. |
-# Project Structure
+# 📂 Project Structure
+```bash
 PathGenie-AI/
 │
-├── app.py                        # Main Streamlit application
-├── requirements.txt              # Required Python libraries
-├── README.md                     # Project documentation
+├── app.py                     # Main Streamlit application
+├── requirements.txt          # Required Python libraries
+├── README.md                 # Project documentation
 │
 ├── dataset/
-│   └── career_recommender.csv    # Dataset used for training
+│   └── career_recommender.csv   # Dataset used for training
 │
 ├── model/
 │   ├── career_model.pkl
@@ -60,6 +61,7 @@ PathGenie-AI/
     ├── ml_questions.py
     ├── web_questions.py
     └── cyber_questions.py
+```
 
 # How the Project Works
 The PathGenie AI system follows a simple and intelligent workflow to analyse user inputs and generate personalised career recommendations.
