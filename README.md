@@ -108,6 +108,7 @@ You can now interact with the **PathGenie AI** career recommendation system.
 <img width="1901" height="900" alt="image" src="https://github.com/user-attachments/assets/9b8b32bc-aad4-4f80-a5a5-fbd6cf49eff7" />
 ## About
 <img width="1897" height="901" alt="image" src="https://github.com/user-attachments/assets/075c420b-4443-48cc-a955-92ba9e78eb1e" />
+
 # Project Objectives
 The main objectives of this project are:
 To help students and beginners identify suitable career paths
